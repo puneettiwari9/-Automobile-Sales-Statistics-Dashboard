@@ -16,7 +16,7 @@ The dashboard allows users to switch between two report types:
 ## 🖥️ Dashboard Preview
 
 ### Recession Period Statistics
-![Recession Dashboard](screenshots/recession_dashboard.png.png)
+![Recession Dashboard](recession_dashboard.png.png)
 
 ### Yearly Statistics (Year: 1980)
 ![Yearly Dashboard](screenshots/yearly_dashboard.png)
