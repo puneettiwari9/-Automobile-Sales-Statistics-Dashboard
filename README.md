@@ -1,10 +1,7 @@
-# -Automobile-Sales-Statistics-Dashboard
-# 🚗 Automobile Sales Statistics Dashboard
 
-> **IBM Data Analyst Professional Certificate — Final Project (Part 2)**  
+# 🚗 Automobile Sales Statistics Dashboard*  
 > An interactive data visualization dashboard built with Python, Dash, and Plotly
 
----
 
 ## 📊 Project Overview
 
